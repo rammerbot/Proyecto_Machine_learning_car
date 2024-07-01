@@ -59,6 +59,8 @@ Para más información sobre este proyecto, por favor contactar a:
 - **Rammer@rammerbot.com**
 - **[LinkedIn](https://www.linkedin.com/in/rammer-gomez/)**
 
+## Descripción de los Análisis y Procedimientos
+
 ## Importar librerias necesarias
 
 ```python
